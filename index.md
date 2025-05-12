@@ -5,3 +5,5 @@
 
 ![2枚目の画像](./Perlin2D_shadow.png)
 
+![猫の画像](./cat.jpg)
+
