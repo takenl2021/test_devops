@@ -1,1 +1,2 @@
-add 1 file by takeuchi
+add 1 file by takeuch
+add 2番目のファイル
